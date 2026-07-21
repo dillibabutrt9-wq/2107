@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1784617357,,"wq!"
+|2,0,1784619556,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,31 @@
 # Registers:
 
 # File marks:
-'0  3  0  ~/trt/trt
-|4,48,3,0,1784617357,"~/trt/trt"
+'0  4  0  ~/trt/trt
+|4,48,4,0,1784619556,"~/trt/trt"
+'1  3  0  ~/trt/trt
+|4,49,3,0,1784617357,"~/trt/trt"
+'2  3  0  ~/trt/trt
+|4,50,3,0,1784617357,"~/trt/trt"
 
 # Jumplist (newest first):
+-'  4  0  ~/trt/trt
+|4,39,4,0,1784619556,"~/trt/trt"
+-'  3  0  ~/trt/trt
+|4,39,3,0,1784619534,"~/trt/trt"
 -'  3  0  ~/trt/trt
 |4,39,3,0,1784617357,"~/trt/trt"
+-'  1  0  ~/trt/trt
+|4,39,1,0,1784617343,"~/trt/trt"
 -'  1  0  ~/trt/trt
 |4,39,1,0,1784617343,"~/trt/trt"
 
 # History of marks within files (newest to oldest):
 
 > ~/trt/trt
-	*	1784617353	0
-	"	3	0
-	^	3	1
-	.	3	0
-	+	3	0
+	*	1784619552	0
+	"	4	0
+	^	4	1
+	.	4	0
+	+	3	1
+	+	4	0
